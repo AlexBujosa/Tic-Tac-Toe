@@ -1,0 +1,13 @@
+.Square{
+    width:100px;
+    height:100px;
+    display:inline-block;
+    
+    
+}
+.color {
+    background-color: rgb(61, 244, 134);
+}
+#newGame{
+    display:none;
+}
